@@ -19,7 +19,7 @@
  <a href="https://www.instagram.com/mr__chowdhury._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Raju Chowdhury" />
  </a> 
-    <a href="https://topmate.io/itsprincesingh" target="blank">
+    <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a>
    <a href="https://rajuchowdhury5315@gmail.com" target="_blank">
