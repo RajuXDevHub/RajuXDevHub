@@ -16,7 +16,7 @@
  <a href="https://twitter.com" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/princesinghcse" target="_blank">
+ <a href="https://www.instagram.com/mr__chowdhury._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Raju Chowdhury" />
  </a> 
     <a href="https://topmate.io/itsprincesingh" target="blank">
@@ -42,7 +42,7 @@
 
 <a href = "https://www.linkedin.com/in/raju-chowdhury-b046562b4" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/mr__chowdhury._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
