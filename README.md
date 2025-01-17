@@ -35,7 +35,7 @@
 - 👁‍🗨 Open 
 - 👨‍🏫 Student Yrrr....
 - 🚀 Passionate About Coding
-- 📘 I’m Currently Studying **Full-Stack Development**
+- 📘 I’m Currently Learning **Full-Stack Development**
 
 ## 📧 Connect with me:
 <p align="left">
