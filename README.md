@@ -51,4 +51,4 @@
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=RajuChowdhury">
 </a>
-<a href="https://github.com/RajuChowdhury15?tab=followers"><img src="https://img.shields.io/github/followers/RajuXDevHub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/RajuXDevHub?tab=followers"><img src="https://img.shields.io/github/followers/RajuXDevHub?label=Followers&style=social" alt="GitHub Badge"></a>
