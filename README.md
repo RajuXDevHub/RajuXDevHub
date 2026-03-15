@@ -34,13 +34,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🥋  I'm always ready to learn new things with Effective ideas. Going on... ❤️
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 listening Audio books 🫶
-- 👁‍🗨 Open 
-- 👨‍🏫 Student Yrrr....
-- 🚀 Passionate About Coding
-- 📘 I’m Currently Learning **Full-Stack Development**
+- 🥋 Always ready to learn new technologies and improve with effective ideas.
+
+- 👨‍💻 Passionate about Java Backend Development & Problem Solving  
+- ☕ Building scalable backend applications using Java & Spring Boot  
+- 🚀 Strengthening fundamentals with Data Structures & Algorithms (150+ problems solved)  
+- 📚 Love listening to Audiobooks & exploring new technologies  
+- 👨‍🎓 B.Tech CSE Student | Future Software Engineer  
+
+- 💡 Exploring Backend Architecture, RESTful APIs & Database Design  
+- 🛠 Tech Stack: Java | Spring Boot | REST APIs | MySQL | Git | Docker (Learning)
+
+- 🌱 Currently Learning: Microservices | System Design | Cloud (AWS/GCP)
 
 ## 💻Use To Code
 
